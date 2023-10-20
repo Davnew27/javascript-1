@@ -10,4 +10,16 @@ if (value < 50) {
 }
 
 
+let firstName = "mariami";
+if (firstName = "mariami"){
+    console.log(true);
+
+
+}
+else if (firstName = "giorgi"){
+    console.log(true);
+}
+else {
+    console.log(false);
+}
 
